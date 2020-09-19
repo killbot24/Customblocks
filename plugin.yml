@@ -1,0 +1,3 @@
+main: com.gmail.stefvanschiedev.customblocks.CustomBlockPlugin
+version: 0.0.0.1
+name: CustomBlocks

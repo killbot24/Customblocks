@@ -1,0 +1,6 @@
+name: Customblocks
+version: ${project.version}
+main: com.gmail.stefvanschiedev.customblocks.CustomBlockPlugin
+api-version: 1.16
+authors: [stef]
+description: Custom blocks
